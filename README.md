@@ -4,27 +4,27 @@ Life has given you another year of chances,as you get a year wiser and and prett
 #### To show this message in terminal run the following
 #### Step 1
 Install pip if you have not installed it
-```shell
+``` bash
 sudo apt install python3-pip
 ```
 #### Step 2
 Create a virtual environment so it doesnt mess up with your global dependencies
-```shell
+```bash
 python3 -m venv
 ```
 ##### Step 3
 Activate virtual environment
-```shell
+``` bash
 source venv/bin/activate
 ```
 #### Step 4
 Install requirements
-```shell
+``` bash
 pip install -r requirements.txt
 ```
 #### Step 5
 Finally lets run the program
-```shell
+``` bash
 python3 pyBirthdayWish.py
 ```
 
