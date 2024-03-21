@@ -10,7 +10,7 @@ sudo apt install python3-pip
 #### Step 2
 Create a virtual environment so it doesnt mess up with your global dependencies
 ```bash
-python3 -m venv
+python3 -m venv venv
 ```
 ##### Step 3
 Activate virtual environment
